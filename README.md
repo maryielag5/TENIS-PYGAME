@@ -1,6 +1,6 @@
 TENIS PYGAME
 ============
-El proyecto esta elaborado, en le lenguaje de programacion python.
+Proyecto python
 
 # REQUERIMIENTOS
 - python2.7
